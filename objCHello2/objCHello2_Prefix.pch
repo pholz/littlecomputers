@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'objCHello2' target in the 'objCHello2' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
