@@ -1,0 +1,93 @@
+Tlab2_final
+v7
+r0
+t286600896.554205
+cCheck dependencies
+cProcessPCH /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab2_final_Prefix-aadqudrabmyiiuaixflmotwsldxi/lab2_final_Prefix.pch.gch lab2_final_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/lab2_final.build/Debug/lab2_final.build/Objects-normal/x86_64/lab2_final.o /Users/holz/Documents/xcodeProjects/lab2_final/lab2_final.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/holz/Documents/xcodeProjects/lab2_final/build/Debug/lab2_final normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004AB9AA2700000000000013E6
+t1253681703
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A600BCB0000000000B37440
+t1247808459
+s11760704
+
+N/Users/holz/Documents/xcodeProjects/lab2_final/build/Debug/lab2_final
+t1264908096
+s10312
+
+N/Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/Objects-normal/x86_64/lab2_final.LinkFileList
+c000000004B64F7390000000000000080
+t1264908089
+s128
+
+N/Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/Objects-normal/x86_64/lab2_final.o
+t1264908096
+s10392
+
+N/Users/holz/Documents/xcodeProjects/lab2_final/lab2_final.m
+c000000004B64F737000000000000025D
+t1264908087
+s605
+i<Foundation/Foundation.h>
+
+N/Users/holz/Documents/xcodeProjects/lab2_final/lab2_final_Prefix.pch
+c000000004B64F71E00000000000000A2
+t1264908062
+s162
+i<Foundation/Foundation.h>
+
+N/var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab2_final_Prefix-aadqudrabmyiiuaixflmotwsldxi/lab2_final_Prefix.pch.gch
+t1264908095
+s41405200
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286600889#286600889#0(0"0(0#1#0"4375320#0"0#
+
+CCompileC build/lab2_final.build/Debug/lab2_final.build/Objects-normal/x86_64/lab2_final.o /Users/holz/Documents/xcodeProjects/lab2_final/lab2_final.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s286600895.804147
+e286600896.051490
+r1
+xCompileC
+xbuild/lab2_final.build/Debug/lab2_final.build/Objects-normal/x86_64/lab2_final.o
+x/Users/holz/Documents/xcodeProjects/lab2_final/lab2_final.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/holz/Documents/xcodeProjects/lab2_final/lab2_final.m286600895#286600896#0(0"0(0#0#59"/Users/holz/Documents/xcodeProjects/lab2_final/lab2_final.m2419783792#1610"    cd /Users/holz/Documents/xcodeProjects/lab2_final    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/lab2_final-generated-files.hmap -I/Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/lab2_final-own-target-headers.hmap -I/Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/lab2_final-all-target-headers.hmap -iquote /Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/lab2_final-project-headers.hmap -F/Users/holz/Documents/xcodeProjects/lab2_final/build/Debug -I/Users/holz/Documents/xcodeProjects/lab2_final/build/Debug/include -I/Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/DerivedSources/x86_64 -I/Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/DerivedSources -include /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab2_final_Prefix-aadqudrabmyiiuaixflmotwsldxi/lab2_final_Prefix.pch -c /Users/holz/Documents/xcodeProjects/lab2_final/lab2_final.m -o /Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/Objects-normal/x86_64/lab2_final.o0#
+
+CLd /Users/holz/Documents/xcodeProjects/lab2_final/build/Debug/lab2_final normal x86_64
+s286600896.051599
+e286600896.554146
+r1
+xLd
+x/Users/holz/Documents/xcodeProjects/lab2_final/build/Debug/lab2_final
+xnormal
+xx86_64
+lSLF07#2@74"Link /Users/holz/Documents/xcodeProjects/lab2_final/build/Debug/lab2_final286600896#286600896#0(0"0(0#0#0"2419783792#572"    cd /Users/holz/Documents/xcodeProjects/lab2_final    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/holz/Documents/xcodeProjects/lab2_final/build/Debug -F/Users/holz/Documents/xcodeProjects/lab2_final/build/Debug -filelist /Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/Objects-normal/x86_64/lab2_final.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/holz/Documents/xcodeProjects/lab2_final/build/Debug/lab2_final0#
+
+CProcessPCH /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab2_final_Prefix-aadqudrabmyiiuaixflmotwsldxi/lab2_final_Prefix.pch.gch lab2_final_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s286600889.905526
+e286600895.803942
+r1
+xProcessPCH
+x/var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab2_final_Prefix-aadqudrabmyiiuaixflmotwsldxi/lab2_final_Prefix.pch.gch
+xlab2_final_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile lab2_final_Prefix.pch286600889#286600895#0(0"0(0#0#68"/Users/holz/Documents/xcodeProjects/lab2_final/lab2_final_Prefix.pch4375320#1493"    cd /Users/holz/Documents/xcodeProjects/lab2_final    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/lab2_final-generated-files.hmap -I/Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/lab2_final-own-target-headers.hmap -I/Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/lab2_final-all-target-headers.hmap -iquote /Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/lab2_final-project-headers.hmap -F/Users/holz/Documents/xcodeProjects/lab2_final/build/Debug -I/Users/holz/Documents/xcodeProjects/lab2_final/build/Debug/include -I/Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/DerivedSources/x86_64 -I/Users/holz/Documents/xcodeProjects/lab2_final/build/lab2_final.build/Debug/lab2_final.build/DerivedSources -c /Users/holz/Documents/xcodeProjects/lab2_final/lab2_final_Prefix.pch -o /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/lab2_final_Prefix-aadqudrabmyiiuaixflmotwsldxi/lab2_final_Prefix.pch.gch0#
+

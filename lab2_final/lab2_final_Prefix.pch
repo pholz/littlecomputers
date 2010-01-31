@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'lab2_final' target in the 'lab2_final' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
