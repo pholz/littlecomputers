@@ -1,0 +1,274 @@
+Tsquares
+v7
+r0
+t287188244.643388
+cCheck dependencies
+cProcessInfoPlistFile /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/Info.plist squares-Info.plist
+cCompileXIB /Users/holz/Documents/xcodeProjects/squares/MainWindow.xib
+cCompileXIB /Users/holz/Documents/xcodeProjects/squares/squaresViewController.xib
+cCompileXIB /Users/holz/Documents/xcodeProjects/squares/squaresView.xib
+cProcessPCH /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/squares_Prefix-daiiooieaeovenaueldqkcorcmtu/squares_Prefix.pch.gch squares_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/main.o /Users/holz/Documents/xcodeProjects/squares/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squaresAppDelegate.o /Users/holz/Documents/xcodeProjects/squares/Classes/squaresAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squaresViewController.o /Users/holz/Documents/xcodeProjects/squares/Classes/squaresViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squares normal i386
+cGenerateDSYMFile /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app.dSYM /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squares
+cTouch /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B5DB7C600000000000000EE
+t1264433094
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/holz/Documents/xcodeProjects/squares/Classes/squaresAppDelegate.h
+c000000004B6DE84F00000000000001E2
+t1265494095
+s482
+i<UIKit/UIKit.h>
+
+N/Users/holz/Documents/xcodeProjects/squares/Classes/squaresAppDelegate.m
+c000000004B6DE84F000000000000026D
+t1265494095
+s621
+i"squaresAppDelegate.h"
+i"squaresViewController.h"
+
+N/Users/holz/Documents/xcodeProjects/squares/Classes/squaresViewController.h
+c000000004B6DE84F00000000000000F1
+t1265494095
+s241
+i<UIKit/UIKit.h>
+
+N/Users/holz/Documents/xcodeProjects/squares/Classes/squaresViewController.m
+c000000004B6DE84F00000000000005BA
+t1265494095
+s1466
+i"squaresViewController.h"
+
+N/Users/holz/Documents/xcodeProjects/squares/MainWindow.xib
+c000000004B6DE84F000000000000244E
+t1265494095
+s9294
+
+N/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app
+t1265495444
+s272
+
+N/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app.dSYM
+t1265495444
+s102
+
+N/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/Info.plist
+t1265495441
+s564
+
+N/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/MainWindow.nib
+t1265495441
+s1495
+
+N/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/PkgInfo
+t1265495441
+s8
+
+N/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squares
+t1265495444
+s19420
+
+N/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squaresView.nib
+t1265495441
+s1919
+
+N/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squaresViewController.nib
+t1265495441
+s1151
+
+N/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/main.o
+t1265495444
+s5968
+
+N/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squares.LinkFileList
+c000000004B6DED91000000000000019C
+t1265495441
+s412
+
+N/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squaresAppDelegate.o
+t1265495444
+s38080
+
+N/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squaresViewController.o
+t1265495444
+s29960
+
+N/Users/holz/Documents/xcodeProjects/squares/main.m
+c000000004B6DE84F000000000000016C
+t1265494095
+s364
+i<UIKit/UIKit.h>
+
+N/Users/holz/Documents/xcodeProjects/squares/squaresView.xib
+c000000004B6DE9240000000000004410
+t1265494308
+s17424
+
+N/Users/holz/Documents/xcodeProjects/squares/squaresViewController.xib
+c000000004B6DE84F00000000000018DB
+t1265494095
+s6363
+
+N/Users/holz/Documents/xcodeProjects/squares/squares_Prefix.pch
+c000000004B6DE84F00000000000000B7
+t1265494095
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/squares_Prefix-daiiooieaeovenaueldqkcorcmtu/squares_Prefix.pch.gch
+t1265495443
+s13034960
+
+Nsquares-Info.plist
+c000000004B6DE84F000000000000038D
+t1265494095
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies287188241#287188241#0(0"0(0#1#0"2419783792#0"0#
+
+CCompileC build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/main.o /Users/holz/Documents/xcodeProjects/squares/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287188244.068629
+e287188244.305477
+r1
+xCompileC
+xbuild/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/main.o
+x/Users/holz/Documents/xcodeProjects/squares/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/holz/Documents/xcodeProjects/squares/main.m287188244#287188244#0(0"0(0#0#50"/Users/holz/Documents/xcodeProjects/squares/main.m2419783792#1914"    cd /Users/holz/Documents/xcodeProjects/squares    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-generated-files.hmap -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-own-target-headers.hmap -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-all-target-headers.hmap -iquote /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-project-headers.hmap -F/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator -I/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/include -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/DerivedSources/i386 -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/DerivedSources -include /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/squares_Prefix-daiiooieaeovenaueldqkcorcmtu/squares_Prefix.pch -c /Users/holz/Documents/xcodeProjects/squares/main.m -o /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/main.o0#
+
+CCompileC build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squaresAppDelegate.o /Users/holz/Documents/xcodeProjects/squares/Classes/squaresAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287188244.070556
+e287188244.307973
+r1
+xCompileC
+xbuild/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squaresAppDelegate.o
+x/Users/holz/Documents/xcodeProjects/squares/Classes/squaresAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/holz/Documents/xcodeProjects/squares/Classes/squaresAppDelegate.m287188244#287188244#0(0"0(0#0#72"/Users/holz/Documents/xcodeProjects/squares/Classes/squaresAppDelegate.m2419783792#1950"    cd /Users/holz/Documents/xcodeProjects/squares    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-generated-files.hmap -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-own-target-headers.hmap -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-all-target-headers.hmap -iquote /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-project-headers.hmap -F/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator -I/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/include -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/DerivedSources/i386 -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/DerivedSources -include /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/squares_Prefix-daiiooieaeovenaueldqkcorcmtu/squares_Prefix.pch -c /Users/holz/Documents/xcodeProjects/squares/Classes/squaresAppDelegate.m -o /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squaresAppDelegate.o0#
+
+CCompileC build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squaresViewController.o /Users/holz/Documents/xcodeProjects/squares/Classes/squaresViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s287188244.305616
+e287188244.372868
+r1
+xCompileC
+xbuild/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squaresViewController.o
+x/Users/holz/Documents/xcodeProjects/squares/Classes/squaresViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/holz/Documents/xcodeProjects/squares/Classes/squaresViewController.m287188244#287188244#0(0"0(0#0#75"/Users/holz/Documents/xcodeProjects/squares/Classes/squaresViewController.m2419783792#1956"    cd /Users/holz/Documents/xcodeProjects/squares    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-generated-files.hmap -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-own-target-headers.hmap -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-all-target-headers.hmap -iquote /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-project-headers.hmap -F/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator -I/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/include -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/DerivedSources/i386 -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/DerivedSources -include /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/squares_Prefix-daiiooieaeovenaueldqkcorcmtu/squares_Prefix.pch -c /Users/holz/Documents/xcodeProjects/squares/Classes/squaresViewController.m -o /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squaresViewController.o0#
+
+CCompileXIB /Users/holz/Documents/xcodeProjects/squares/MainWindow.xib
+s287188241.252102
+e287188241.685790
+r1
+xCompileXIB
+x/Users/holz/Documents/xcodeProjects/squares/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib287188241#287188241#0(0"0(0#0#58"/Users/holz/Documents/xcodeProjects/squares/MainWindow.xib2419783792#497"    cd /Users/holz/Documents/xcodeProjects/squares    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/MainWindow.nib /Users/holz/Documents/xcodeProjects/squares/MainWindow.xib0#
+
+CCompileXIB /Users/holz/Documents/xcodeProjects/squares/squaresView.xib
+s287188241.673430
+e287188242.016246
+r1
+xCompileXIB
+x/Users/holz/Documents/xcodeProjects/squares/squaresView.xib
+lSLF07#2@26"CompileXIB squaresView.xib287188241#287188242#0(0"0(0#0#59"/Users/holz/Documents/xcodeProjects/squares/squaresView.xib2419783792#499"    cd /Users/holz/Documents/xcodeProjects/squares    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squaresView.nib /Users/holz/Documents/xcodeProjects/squares/squaresView.xib0#
+
+CCompileXIB /Users/holz/Documents/xcodeProjects/squares/squaresViewController.xib
+s287188241.271392
+e287188241.673321
+r1
+xCompileXIB
+x/Users/holz/Documents/xcodeProjects/squares/squaresViewController.xib
+lSLF07#2@36"CompileXIB squaresViewController.xib287188241#287188241#0(0"0(0#0#69"/Users/holz/Documents/xcodeProjects/squares/squaresViewController.xib2419783792#519"    cd /Users/holz/Documents/xcodeProjects/squares    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squaresViewController.nib /Users/holz/Documents/xcodeProjects/squares/squaresViewController.xib0#
+
+CGenerateDSYMFile /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app.dSYM /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squares
+s287188244.468986
+e287188244.576089
+r1
+xGenerateDSYMFile
+x/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app.dSYM
+x/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squares
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/squares.app.dSYM build/Debug-iphonesimulator/squares.app/squares287188244#287188244#0(0"0(0#0#91"/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squares2419783792#398"    cd /Users/holz/Documents/xcodeProjects/squares    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squares -o /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app.dSYM0#
+
+CLd /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squares normal i386
+s287188244.372984
+e287188244.468860
+r1
+xLd
+x/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squares
+xnormal
+xi386
+lSLF07#2@96"Link /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squares287188244#287188244#0(0"0(0#0#0"2419783792#889"    cd /Users/holz/Documents/xcodeProjects/squares    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator -F/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator -filelist /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/Objects-normal/i386/squares.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/squares0#
+
+CProcessInfoPlistFile /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/Info.plist squares-Info.plist
+s287188241.194420
+e287188241.251995
+r1
+xProcessInfoPlistFile
+x/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/Info.plist
+xsquares-Info.plist
+lSLF07#2@26"Process squares-Info.plist287188241#287188241#0(0"0(0#0#62"/Users/holz/Documents/xcodeProjects/squares/squares-Info.plist2419783792#494"    cd /Users/holz/Documents/xcodeProjects/squares    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility squares-Info.plist -genpkginfo /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app/Info.plist0#
+
+CProcessPCH /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/squares_Prefix-daiiooieaeovenaueldqkcorcmtu/squares_Prefix.pch.gch squares_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s287188242.016392
+e287188244.068431
+r1
+xProcessPCH
+x/var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/squares_Prefix-daiiooieaeovenaueldqkcorcmtu/squares_Prefix.pch.gch
+xsquares_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile squares_Prefix.pch287188242#287188244#0(0"0(0#0#62"/Users/holz/Documents/xcodeProjects/squares/squares_Prefix.pch2419783792#1801"    cd /Users/holz/Documents/xcodeProjects/squares    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-generated-files.hmap -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-own-target-headers.hmap -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-all-target-headers.hmap -iquote /Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/squares-project-headers.hmap -F/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator -I/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/include -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/DerivedSources/i386 -I/Users/holz/Documents/xcodeProjects/squares/build/squares.build/Debug-iphonesimulator/squares.build/DerivedSources -c /Users/holz/Documents/xcodeProjects/squares/squares_Prefix.pch -o /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/squares_Prefix-daiiooieaeovenaueldqkcorcmtu/squares_Prefix.pch.gch0#
+
+CTouch /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app
+s287188244.576230
+e287188244.643333
+r1
+xTouch
+x/Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app
+lSLF07#2@89"Touch /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app287188244#287188244#0(0"0(0#0#0"2419783792#288"    cd /Users/holz/Documents/xcodeProjects/squares    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/holz/Documents/xcodeProjects/squares/build/Debug-iphonesimulator/squares.app0#
+
