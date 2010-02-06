@@ -107,10 +107,13 @@ int main(int argc, char**argv)
 	NSLog(@"I am %@, this is my friend %@ and he says '%@'", mc, [mc friend], [[mc friend] goodbye]);
 	NSLog(@"I am %@, this is my friend %@ and he says '%@'", mc2, [mc2 friend], [[mc2 friend] goodbye]);
 	
-	[mc release];
-	[mc2 release];
 	[yc release];
 	[yc2 release];
+	[mc release];
+	[mc2 release];
+	
+	
+
 	[pool release];
 	
 	return 0;

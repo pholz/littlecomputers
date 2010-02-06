@@ -17,8 +17,9 @@
 
 - (void)applicationDidFinishLaunching:(UIApplication *)application {    
     
-    
-	viewController = [[squaresViewController alloc] initWithNibName:@"squaresView" bundle:nil];
+    squaresViewController *svc = [[squaresViewController alloc] initWithNibName:@"squaresView" bundle:nil];
+	[self setViewController: svc];
+	[svc release];
 	
     [window addSubview:viewController.view];
     [window makeKeyAndVisible];

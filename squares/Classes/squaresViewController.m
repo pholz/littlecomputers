@@ -70,6 +70,32 @@
 
 -(IBAction) btnSquarePressed:(id)sender {
 	NSLog(@"btn press");
+	
+	int input = [[tfInput text] intValue];
+	int res = input * input;
+	
+	[tfOutput setText:[NSString stringWithFormat: @"%d", res]];
+	
+	if([tfInput isEditing]){
+		[tfInput resignFirstResponder];
+	}
+}
+
+-(BOOL) textFieldShouldReturn:(UITextField *)textField {
+	
+	NSLog(@"finished: %@",[textField description]);
+	if(textField == tfInput || textField == tfOutput){
+		[textField resignFirstResponder];
+	}
+	
+	return YES;
+}
+
+-(BOOL) textFieldShouldBeginEditing:(UITextField *)textField {
+	if(textField == tfOutput){
+		return NO;
+	}
+	else return YES;
 }
 
 @end
