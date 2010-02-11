@@ -86,7 +86,7 @@ int main(int argc, char *argv[])
 	NSLog(@"%@",objc_msgSend(hello, @selector(giveMeAnAnswer)));
 	
 	
-	// the backdoor
+	// the backdoor: function pointers
 	
 	NSLog(@"--- calling functions directly:");
 	

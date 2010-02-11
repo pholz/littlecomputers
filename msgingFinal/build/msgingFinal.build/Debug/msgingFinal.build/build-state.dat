@@ -1,7 +1,7 @@
 TmsgingFinal
 v7
 r0
-t287554769.201815
+t287555461.277884
 cCheck dependencies
 cProcessInfoPlistFile /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/Info.plist Info.plist
 cCopyStringsFile /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
@@ -14,6 +14,11 @@ N/Developer/SDKs/MacOSX10.5.sdk
 c000000004B5DB95D00000000000000EE
 t1264433501
 s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004A0CC10900000000002B7944
+t1242349833
+s2849092
 
 N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
 c0000000040C4AA6800000000000001E5
@@ -46,7 +51,7 @@ t1265857977
 s136
 
 N/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app
-t1265861969
+t1265862661
 s102
 
 N/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/Info.plist
@@ -54,7 +59,7 @@ t1265858356
 s781
 
 N/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/MacOS/msgingFinal
-t1265861969
+t1265862661
 s17928
 
 N/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/PkgInfo
@@ -70,7 +75,7 @@ t2
 s0
 
 N/Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/Objects-normal/i386/main.o
-t1265861969
+t1265862661
 s10444
 
 N/Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/Objects-normal/i386/msgingFinal.LinkFileList
@@ -79,9 +84,9 @@ t1265858356
 s123
 
 N/Users/holz/Documents/xcodeProjects/msgingFinal/main.m
-c000000004B73854F0000000000000873
-t1265861967
-s2163
+c000000004B7388040000000000000886
+t1265862660
+s2182
 i<Foundation/Foundation.h>
 i<time.h>
 
@@ -102,11 +107,11 @@ s840
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies287554768#287554768#0(0"0(0#1#0"2430982256#0"0#
+lSLF07#2@18"Check dependencies287555460#287555460#0(0"0(0#1#0"2430982256#0"0#
 
 CCompileC build/msgingFinal.build/Debug/msgingFinal.build/Objects-normal/i386/main.o /Users/holz/Documents/xcodeProjects/msgingFinal/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s287554768.746192
-e287554769.167642
+s287555460.792439
+e287555461.244308
 r1
 xCompileC
 xbuild/msgingFinal.build/Debug/msgingFinal.build/Objects-normal/i386/main.o
@@ -115,7 +120,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@62"Compile /Users/holz/Documents/xcodeProjects/msgingFinal/main.m287554768#287554769#0(0"0(0#0#54"/Users/holz/Documents/xcodeProjects/msgingFinal/main.m2430982256#1185"    cd /Users/holz/Documents/xcodeProjects/msgingFinal    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/msgingFinal.hmap -F/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug -I/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/include -I/Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/DerivedSources/i386 -I/Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/DerivedSources -include /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/msgingFinal_Prefix-hkydypkgevwzaweoylfipffqaqcc/msgingFinal_Prefix.pch -c /Users/holz/Documents/xcodeProjects/msgingFinal/main.m -o /Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/Objects-normal/i386/main.o0#
+lSLF07#2@62"Compile /Users/holz/Documents/xcodeProjects/msgingFinal/main.m287555460#287555461#0(0"0(0#0#54"/Users/holz/Documents/xcodeProjects/msgingFinal/main.m2430982256#1185"    cd /Users/holz/Documents/xcodeProjects/msgingFinal    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/msgingFinal.hmap -F/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug -I/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/include -I/Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/DerivedSources/i386 -I/Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/DerivedSources -include /var/folders/qy/qyUYz6M8H+a7gEQCU7iuo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/msgingFinal_Prefix-hkydypkgevwzaweoylfipffqaqcc/msgingFinal_Prefix.pch -c /Users/holz/Documents/xcodeProjects/msgingFinal/main.m -o /Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/Objects-normal/i386/main.o0#
 
 CCopyStringsFile /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
 s287551156.813454
@@ -127,14 +132,14 @@ xEnglish.lproj/InfoPlist.strings
 lSLF07#2@36"Copy English.lproj/InfoPlist.strings287551156#287551158#0(0"0(0#0#79"/Users/holz/Documents/xcodeProjects/msgingFinal/English.lproj/InfoPlist.strings4375320#388"    cd /Users/holz/Documents/xcodeProjects/msgingFinal    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/Resources/English.lproj0#
 
 CLd /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/MacOS/msgingFinal normal i386
-s287554769.167749
-e287554769.198575
+s287555461.244418
+e287555461.274617
 r1
 xLd
 x/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/MacOS/msgingFinal
 xnormal
 xi386
-lSLF07#2@107"Link /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/MacOS/msgingFinal287554769#287554769#0(0"0(0#0#0"2430982256#603"    cd /Users/holz/Documents/xcodeProjects/msgingFinal    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug -F/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug -filelist /Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/Objects-normal/i386/msgingFinal.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/MacOS/msgingFinal0#
+lSLF07#2@107"Link /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/MacOS/msgingFinal287555461#287555461#0(0"0(0#0#0"2430982256#604"    cd /Users/holz/Documents/xcodeProjects/msgingFinal    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug -F/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug -filelist /Users/holz/Documents/xcodeProjects/msgingFinal/build/msgingFinal.build/Debug/msgingFinal.build/Objects-normal/i386/msgingFinal.LinkFileList -mmacosx-version-min=10.5 -framework AppKit -o /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/MacOS/msgingFinal0#
 
 CProcessInfoPlistFile /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app/Contents/Info.plist Info.plist
 s287551156.729470
@@ -162,10 +167,10 @@ CStripNIB /Users/holz/Documents/xcodeProjects/msgingFinal/English.lproj/MainMenu
 r0
 
 CTouch /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app
-s287554769.198696
-e287554769.201767
+s287555461.274726
+e287555461.277837
 r1
 xTouch
 x/Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app
-lSLF07#2@81"Touch /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app287554769#287554769#0(0"0(0#0#0"2430982256#153"    cd /Users/holz/Documents/xcodeProjects/msgingFinal    /usr/bin/touch -c /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app0#
+lSLF07#2@81"Touch /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app287555461#287555461#0(0"0(0#0#0"2430982256#153"    cd /Users/holz/Documents/xcodeProjects/msgingFinal    /usr/bin/touch -c /Users/holz/Documents/xcodeProjects/msgingFinal/build/Debug/msgingFinal.app0#
 
