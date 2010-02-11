@@ -229,6 +229,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -298,7 +300,7 @@
 							<real>324</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>120 142 1333 843 0 0 1680 1028 </string>
+						<string>123 154 1333 843 0 0 1680 1028 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -309,8 +311,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -328,7 +328,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>66C0750A111E45BF001EE756</string>
+										<string>66C07519111E806F001EE756</string>
 										<key>history</key>
 										<array>
 											<string>66C0744F111E2CCE001EE756</string>
@@ -336,9 +336,9 @@
 											<string>66C074F4111E45B5001EE756</string>
 											<string>66C074F5111E45B5001EE756</string>
 											<string>66C074F7111E45B5001EE756</string>
-											<string>66C074F8111E45B5001EE756</string>
-											<string>66C074F9111E45B5001EE756</string>
-											<string>66C074FA111E45B5001EE756</string>
+											<string>66C0750B111E4681001EE756</string>
+											<string>66C0750C111E4681001EE756</string>
+											<string>66C0750D111E4681001EE756</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -352,7 +352,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {987, 611}}</string>
 								<key>RubberWindowFrame</key>
-								<string>120 142 1333 843 0 0 1680 1028 </string>
+								<string>123 154 1333 843 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -372,7 +372,7 @@
 								<key>Frame</key>
 								<string>{{0, 616}, {987, 186}}</string>
 								<key>RubberWindowFrame</key>
-								<string>120 142 1333 843 0 0 1680 1028 </string>
+								<string>123 154 1333 843 0 0 1680 1028 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -544,7 +544,7 @@
 		<string>/Users/holz/Documents/xcodeProjects/squares/squares.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>120 142 1333 843 0 0 1680 1028 </string>
+	<string>123 154 1333 843 0 0 1680 1028 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
